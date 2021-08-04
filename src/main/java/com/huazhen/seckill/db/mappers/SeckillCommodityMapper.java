@@ -2,6 +2,7 @@ package com.huazhen.seckill.db.mappers;
 
 import com.huazhen.seckill.db.po.SeckillCommodity;
 
+
 public interface SeckillCommodityMapper {
     int deleteByPrimaryKey(Long id);
 

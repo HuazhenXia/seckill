@@ -14,7 +14,8 @@
         <!--                        connectionURL="jdbc:mysql://139.196.48.177:3306/couponPO" userId="root"-->
         <!--                        password="XiaJie123??">-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://localhost:3306/panic_buying?serverTimezone=GMT" userId="root"
+                        connectionURL="jdbc:mysql://localhost:3306/panic_buying?serverTimezone=GMT"
+                        userId="root"
                         password="hux@521Z!">
         </jdbcConnection>
         <!-- <jdbcConnection driverClass="oracle.jdbc.OracleDriver"
